@@ -111,5 +111,5 @@ int print_r(va_list r)
 		_putchar(str[i]);
 		count++;
 	}
-	return (count);
+	return (count)
 }
