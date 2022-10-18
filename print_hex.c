@@ -126,5 +126,5 @@ int print_p(va_list p)
 			count++;
 		}
 	}
-	return (count)
+	return (count);
 }
